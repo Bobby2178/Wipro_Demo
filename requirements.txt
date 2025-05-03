@@ -1,0 +1,5 @@
+This is ecommerce application
+we have 3 modules to do
+payment
+cart
+checkout
